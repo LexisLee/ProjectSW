@@ -20,7 +20,7 @@ public class UserDashboardFragment extends Fragment implements UserDashboardPres
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup viewGroup, Bundle savedInstanceState) {
         super.onCreateView(inflater, viewGroup, savedInstanceState);
-        View view = inflater.inflate(R.layout.fragment_loginfragment, viewGroup, false);
+        View view = inflater.inflate(R.layout.fragment_userdashboard, viewGroup, false);
         ButterKnife.bind(this, view);
         return view;
     }
