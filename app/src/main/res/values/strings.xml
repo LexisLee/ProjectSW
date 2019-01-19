@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HobbyCollector</string>
+
+    <!-- Common -->
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+
+</resources>
