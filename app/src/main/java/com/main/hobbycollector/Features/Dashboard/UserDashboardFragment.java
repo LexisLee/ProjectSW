@@ -10,7 +10,7 @@ import com.main.hobbycollector.R;
 
 import butterknife.ButterKnife;
 
-public class UserDashboardFragment extends Fragment {
+public class UserDashboardFragment extends Fragment implements UserDashboardPresenter.View {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
